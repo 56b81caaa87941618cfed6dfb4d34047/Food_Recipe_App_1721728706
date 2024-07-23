@@ -74,23 +74,5 @@
         "isDraggable": true,
         "isResizable": true,
         "name": ""
-    },
-    "contact_form_table_1721728784.js": {
-        "id": "contact_form_table_1721728784",
-        "name": "contact_form_table",
-        "type": "containerComponent",
-        "metadata": {},
-        "w": 7,
-        "h": 7,
-        "x": 5,
-        "y": 9,
-        "i": "4",
-        "minW": 3,
-        "maxW": 12,
-        "minH": 1,
-        "moved": false,
-        "static": false,
-        "isDraggable": true,
-        "isResizable": true
     }
 }
